@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ppmlhdfe Poisson pseudo-likelihood regression with multiple levels of fixed effects Use ppmlhdfe With STATA 18
